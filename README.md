@@ -1,3 +1,10 @@
+# Apresentação de Lucas
+
+Este é um projeto Python que exibe uma apresentação animada sobre mim, Lucas, incluindo minha experiência profissional, habilidades técnicas e algumas informações interessantes.
+
+## Código
+
+```python
 import time
 import random
 
@@ -49,4 +56,3 @@ def apresentacao():
     exibir_animado(random.choice(mensagens_aleatorias))
 
 apresentacao()
-
